@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+private-inputs/
+local-results/
+*.bundle
+*.zip
